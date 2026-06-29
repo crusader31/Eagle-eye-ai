@@ -1,2 +1,1 @@
-# Eagle-eye-ai
-## Intelligent Transportation intelligence Platform
+# Eagle-eye-ai (Intelligent Transportation intelligence Platform)
